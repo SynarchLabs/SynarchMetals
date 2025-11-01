@@ -85,6 +85,7 @@ To request **academic collaboration**, **commercial licensing**, or **custom dat
 
 **Synarch Labs — Synthetic Data Intelligence**  
 📧 Email: [synarchlabs@gmail.com](mailto:synarchlabs@gmail.com) | [synarchlabs@proton.me](mailto:synarchlabs@proton.me)
-We are committed to supporting researchers, engineers, and developers in harnessing **high-quality synthetic materials data**.
+We are committed to supporting researchers, engineers, and developers in harnessing **high-quality synthetic data**.
 
 ---
+
