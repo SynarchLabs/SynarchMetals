@@ -1,0 +1,10 @@
+material,carbon_pct,treatment,elastic_modulus_GPa,grain_size_um,sigma0_MPa,hall_petch_ky,yield_strength_MPa,ultimate_strength_MPa,fracture_strain,hardening_coefficient_K,hardening_exponent_n,necking_parameter_k,qc_elastic_slope_ok,qc_uts_yield_ratio_ok,qc_monotonic_ok,outliers_count,sample_id,curve_id
+Fe-C,0.46,Annealed,205.0,16.4,334.81,10.72,418.55,621.38,0.3467,282.36,0.2156,7.22,True,True,False,1,Annealed_001,1
+Fe-C,0.46,Annealed,205.0,25.56,289.55,11.92,364.1,610.05,0.329,347.7,0.249,9.43,True,True,False,1,Annealed_002,2
+Fe-C,0.43,Annealed,205.0,25.77,322.09,9.82,383.29,601.68,0.3461,308.13,0.2441,6.73,True,True,False,0,Annealed_003,3
+Fe-C,0.26,Normalized,205.0,7.82,235.75,12.99,382.56,536.81,0.2476,212.68,0.1989,10.83,True,True,False,0,Normalized_001,4
+Fe-C,0.29,Normalized,205.0,9.01,250.86,11.21,368.96,561.21,0.1869,264.09,0.193,8.15,True,True,False,0,Normalized_002,5
+Fe-C,0.3,Normalized,205.0,12.57,208.41,12.35,318.57,503.06,0.1663,254.36,0.1989,9.77,True,True,False,1,Normalized_003,6
+Fe-C,0.44,Quenched_Tempered,205.0,7.72,339.4,13.56,493.75,784.07,0.1117,376.51,0.1251,14.12,True,True,False,0,Quenched_Tempered_001,7
+Fe-C,0.43,Quenched_Tempered,205.0,8.01,363.42,12.16,499.3,794.61,0.146,373.19,0.1029,13.72,True,True,True,2,Quenched_Tempered_002,8
+Fe-C,0.43,Quenched_Tempered,205.0,9.69,359.48,13.91,500.84,746.11,0.1565,323.27,0.1409,14.93,True,True,True,0,Quenched_Tempered_003,9
